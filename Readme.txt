@@ -2,7 +2,7 @@ Read Me
 
 This is the original code of 15-112 TP of Sheng Xu.
 
-You can see the server and database files here, but there is another file solely for distribution (you should check that out, made by py2app) that does not include the server and the database files. 
+You can see the server and database files here, but there is another file solely for distribution (made by py2app, link: https://drive.google.com/file/d/0B3EEZnjSqgINY2NHSmlRMlIxTG8/view?usp=sharing) that does not include the server and the database files. 
 
 In order to run the server on your computer, please put your andrew id in myandrewid.txt and your andrew password in my password.txt, and then run GameServer.
 
