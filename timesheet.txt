@@ -1,0 +1,24 @@
+Timesheet
+
+Nov 18    5 hours
+Nov 20    4 hours
+Nov 21    5 hours
+Nov 23    3 hours
+Nov 24    3 hours
+Nov 25    5 hours
+Nov 26    6 hours
+Nov 28    3 hours
+Nov 29    5 hours
+Nov 30    6 hours
+Dec 1       1 hour
+Dec 2       6 hours
+Dec 3       6 hours
+Dec 4       6 hours
+Dec 5      6 hours
+Dec 6       6 hours
+Dec 7       8 hours
+Dec 8       8 hours
+Dec 9       10 hours
+Dec 10       12 hours
+
+Total: 112 hours

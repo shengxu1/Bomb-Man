@@ -1,0 +1,28 @@
+Design Document
+
+This is a remake of the favorite game of my childhood, Bomb man. I tried to
+make it as accurate as possible to the original game. Many small details of 
+this game, while not apparent at first, are very hard to make (such as layering
+images, the tunnel in treasurehunt and the door in hero mode which have weird 
+attributes, how explosions of bubbles work(which group with which), how can
+players not get items that they have put down, multithreading not destroying the
+game, how to make the game smooth in multiplayer by using non-blocking sockets,
+how to detect server disconnection or client disconnection by check-alive messages,
+how to set up static ip, how to do different modes, how to single out all data 
+to a single allgamedata file, how to put everything into a single app file through
+py2app, and so on). I really enjoyed doing this project.
+
+
+
+
+
+
+Cited work
+
+Thanks for help from my mentor Lukas. And 4 of my friends (Leo, Alex, Qiuyu, 
+and Muyu) who helped in my video. The images of the characters come from 
+http://www.2gei.com/view/9714.html. The pygamegame class is adapted from
+my mentor Lukas' version. The other images and some audios are adapted from various 
+websites from google and baidu and trimmed and editted through gimp, paintbrush 
+and audacity. Some audios feature sounds from some of my other friends (Annie,
+Ziang, Gao). And thanks for mouse@cmu.edu for teaching my os programming in python.
